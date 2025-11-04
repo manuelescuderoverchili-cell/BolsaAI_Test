@@ -1,0 +1,185 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║           REPORTE DETALLADO DE ANÁLISIS FINANCIERO
+║           BITCOIN
+╚══════════════════════════════════════════════════════════════╝
+
+Fecha de generación: 04/11/2025 19:04:38
+Periodo analizado: 1 mes
+
+═══════════════════════════════════════════════════════════════
+                    1. ANÁLISIS ESTADÍSTICO
+═══════════════════════════════════════════════════════════════
+
+TEST 1: ESTADÍSTICAS BÁSICAS
+─────────────────────────────────────────────────────────────
+✅ EJECUTADO CORRECTAMENTE
+
+Datos recopilados:
+• Número de registros: 32
+• Precio actual: $100,933.99
+• Precio inicial del periodo: $122,425.43
+• Precio máximo alcanzado: $126,198.07
+• Precio mínimo alcanzado: $100,933.99
+• Volumen promedio: 69,370,094,777
+
+Variaciones:
+• Variación absoluta: $-21,491.44
+• Variación porcentual: -17.55%
+• Volatilidad (desviación estándar): 2.32%
+
+Interpretación:
+  → FUERTE BAJADA en el periodo analizado
+  → Volatilidad MODERADA - movimientos normales
+
+═══════════════════════════════════════════════════════════════
+                    2. ANÁLISIS TÉCNICO
+═══════════════════════════════════════════════════════════════
+
+TEST 2: INDICADORES TÉCNICOS
+─────────────────────────────────────────────────────────────
+✅ EJECUTADO CORRECTAMENTE
+
+Tendencia detectada: BAJISTA
+Señal de trading: NEUTRAL
+
+Medias Móviles:
+• SMA 20: $109,383.43 (-7.72% del precio actual)
+• SMA 50: No disponible (datos insuficientes)
+
+RSI (Relative Strength Index):
+• Valor RSI: 35.37
+• Estado: NEUTRAL - Sin señales extremas
+
+Soportes y Resistencias:
+• Soporte identificado: $100,933.99
+• Resistencia identificada: $126,198.07
+• Distancia al soporte: +0.00%
+• Distancia a resistencia: +25.03%
+
+═══════════════════════════════════════════════════════════════
+                3. DETECCIÓN DE PATRONES
+═══════════════════════════════════════════════════════════════
+
+TEST 3: PATRONES DE VELAS JAPONESAS
+─────────────────────────────────────────────────────────────
+✅ EJECUTADO CORRECTAMENTE
+
+Patrones encontrados: 13
+
+• [06/10/2025] Tres Soldados Blancos
+  Tipo: Alcista | Confianza: Muy Alta
+  Fuerte continuación alcista
+
+• [11/10/2025] Tres Cuervos Negros
+  Tipo: Bajista | Confianza: Muy Alta
+  Fuerte continuación bajista
+
+• [13/10/2025] Doji
+  Tipo: Neutral | Confianza: Baja
+  Indecisión del mercado, posible cambio de tendencia
+
+• [16/10/2025] Tres Cuervos Negros
+  Tipo: Bajista | Confianza: Muy Alta
+  Fuerte continuación bajista
+
+• [17/10/2025] Tres Cuervos Negros
+  Tipo: Bajista | Confianza: Muy Alta
+  Fuerte continuación bajista
+
+TEST 4: PATRONES GRÁFICOS
+─────────────────────────────────────────────────────────────
+✅ EJECUTADO CORRECTAMENTE
+
+Patrones encontrados: 12
+
+• [24/10/2025] Doble Suelo
+  Tipo: Alcista | Confianza: Alta
+  Patrón de reversión alcista - precio ha rebotado dos veces en soporte
+
+• [25/10/2025] Doble Suelo
+  Tipo: Alcista | Confianza: Alta
+  Patrón de reversión alcista - precio ha rebotado dos veces en soporte
+
+• [26/10/2025] Doble Suelo
+  Tipo: Alcista | Confianza: Alta
+  Patrón de reversión alcista - precio ha rebotado dos veces en soporte
+
+• [27/10/2025] Doble Suelo
+  Tipo: Alcista | Confianza: Alta
+  Patrón de reversión alcista - precio ha rebotado dos veces en soporte
+
+• [28/10/2025] Doble Suelo
+  Tipo: Alcista | Confianza: Alta
+  Patrón de reversión alcista - precio ha rebotado dos veces en soporte
+
+TEST 5: DIVERGENCIAS DE MOMENTUM
+─────────────────────────────────────────────────────────────
+✅ EJECUTADO CORRECTAMENTE
+
+Divergencias encontradas: 0
+
+No se detectaron divergencias significativas.
+
+TEST 6: ANÁLISIS DE VOLUMEN
+─────────────────────────────────────────────────────────────
+✅ EJECUTADO CORRECTAMENTE
+
+Patrones de volumen encontrados: 0
+
+No se detectaron patrones de volumen inusuales.
+
+═══════════════════════════════════════════════════════════════
+                4. ANÁLISIS DE SENTIMIENTO
+═══════════════════════════════════════════════════════════════
+
+TEST 7: ANÁLISIS DE NOTICIAS
+─────────────────────────────────────────────────────────────
+✅ EJECUTADO CORRECTAMENTE
+
+Noticias analizadas: 50
+
+Distribución de sentimiento:
+• Noticias positivas: 19 (38.0%)
+• Noticias negativas: 3 (6.0%)
+• Noticias neutrales: 28 (56.0%)
+
+Métricas de sentimiento:
+• Sentimiento promedio: +0.090
+• Subjetividad promedio: 0.361
+
+Interpretación:
+  → Sentimiento NEUTRAL en las noticias
+
+═══════════════════════════════════════════════════════════════
+                    RESUMEN EJECUTIVO
+═══════════════════════════════════════════════════════════════
+
+TESTS EJECUTADOS: 7/7 ✅
+
+Conclusiones principales:
+
+1. PRECIO Y TENDENCIA:
+   • El precio ha variado -17.55% en el periodo
+   • Tendencia identificada: BAJISTA
+   • Señal de trading: NEUTRAL
+
+2. PATRONES TÉCNICOS:
+   • Total de patrones detectados: 25
+   • Patrones alcistas vs bajistas: Ver detalle arriba
+   • Nivel de confianza: Variable según patrón
+
+3. VOLATILIDAD Y RIESGO:
+   • Volatilidad: 2.32% (MODERADA)
+   • Rango de precios: $100,933.99 - $126,198.07
+
+4. SENTIMIENTO DEL MERCADO:
+   • Sentimiento de noticias: NEUTRAL
+   • Nivel de cobertura mediática: ALTO
+
+RECOMENDACIÓN GENERAL:
+⚠️ PRECAUCIÓN
+
+═══════════════════════════════════════════════════════════════
+Fin del reporte - 04/11/2025 19:04:38
+═══════════════════════════════════════════════════════════════

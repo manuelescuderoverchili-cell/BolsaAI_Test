@@ -1,0 +1,8 @@
+﻿activo,ticker,categoria,recomendacion,score_rentabilidad,precio_actual,precio_objetivo,retorno_esperado,direccion,confianza,tendencia,rsi,volatilidad,patrones_alcistas,patrones_bajistas,total_patrones
+Apple,AAPL,🟢 MUY ALCISTA,🚀 COMPRA FUERTE,87.0,0,271.98343202299424,0,Alcista,90,N/A,50,0,2,0,3
+Bitcoin,BTC-USD,🟡 NEUTRAL-ALCISTA,👍 COMPRA MODERADA,55.0,0,102786.4609375,0,Neutral/Lateral,50,N/A,50,0,1,1,2
+Ethereum,ETH-USD,🟡 NEUTRAL-ALCISTA,👍 COMPRA MODERADA,55.0,0,3477.2998046875,0,Neutral/Lateral,50,N/A,50,0,1,1,2
+Tesla,TSLA,🟡 NEUTRAL,⚖️ MANTENER/OBSERVAR,40.0,0,453.4100036621094,0,Neutral/Lateral,50,N/A,50,0,0,0,2
+Dow Jones,^DJI,🟡 NEUTRAL,⚖️ MANTENER/OBSERVAR,40.0,0,47185.4296875,0,Neutral/Lateral,50,N/A,50,0,0,0,1
+Microsoft,MSFT,🔴 MUY BAJISTA,🛑 VENTA FUERTE,13.0,0,505.0656429607101,0,Bajista,90,N/A,50,0,0,3,3
+Netflix,NFLX,🔴 MUY BAJISTA,🛑 VENTA FUERTE,13.0,0,1074.954988388974,0,Bajista,90,N/A,50,0,0,1,2
